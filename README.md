@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
-- 🔭 I’m currently working on **Blockchain Technology**
+- 🔭 I’m currently working on **JavaScript Technology**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
