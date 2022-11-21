@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **amazing team/ organization**
 
-- 💬 Ask me about **MERN,JAVA,DSA,Blockchain technology**
+- 💬 Ask me about **MERN,JAVA,DSA,Blockchain technology(basic)**
 
 - 📫 How to reach me **kaflepradip.edu@gmail.com**
 
