@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
-- 🔭 I’m getting better at **JavaScript Technologies**
+- 🔭 I’m getting better at **Java && JavaScript Technologies**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
