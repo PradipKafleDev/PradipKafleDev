@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
-- 🔭 I’m currently working on **JavaScript Technologies**
+- 🔭 I’m getting beeter at **JavaScript Technologies**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **amazing team/ organization**
 
-- 💬 Ask me about **MERN,JAVA,DSA,Blockchain technology(basic)**
+- 💬 Ask me about **MERN,JAVA,DSA,Blockchain technology(Basic)**
 
 - 📫 How to reach me **kaflepradip.edu@gmail.com**
 
